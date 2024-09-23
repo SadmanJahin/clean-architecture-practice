@@ -1,0 +1,11 @@
+C:\Users\13343\source\repos\EmployeeManagement\Task.Domain\bin\Debug\net8.0\Task.Domain.deps.json
+C:\Users\13343\source\repos\EmployeeManagement\Task.Domain\bin\Debug\net8.0\Task.Domain.dll
+C:\Users\13343\source\repos\EmployeeManagement\Task.Domain\bin\Debug\net8.0\Task.Domain.pdb
+C:\Users\13343\source\repos\EmployeeManagement\Task.Domain\obj\Debug\net8.0\Task.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13343\source\repos\EmployeeManagement\Task.Domain\obj\Debug\net8.0\Task.Domain.AssemblyInfoInputs.cache
+C:\Users\13343\source\repos\EmployeeManagement\Task.Domain\obj\Debug\net8.0\Task.Domain.AssemblyInfo.cs
+C:\Users\13343\source\repos\EmployeeManagement\Task.Domain\obj\Debug\net8.0\Task.Domain.csproj.CoreCompileInputs.cache
+C:\Users\13343\source\repos\EmployeeManagement\Task.Domain\obj\Debug\net8.0\Task.Domain.dll
+C:\Users\13343\source\repos\EmployeeManagement\Task.Domain\obj\Debug\net8.0\refint\Task.Domain.dll
+C:\Users\13343\source\repos\EmployeeManagement\Task.Domain\obj\Debug\net8.0\Task.Domain.pdb
+C:\Users\13343\source\repos\EmployeeManagement\Task.Domain\obj\Debug\net8.0\ref\Task.Domain.dll

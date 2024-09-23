@@ -1,0 +1,15 @@
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\bin\Debug\net8.0\Task.Application.deps.json
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\bin\Debug\net8.0\Task.Application.dll
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\bin\Debug\net8.0\Task.Application.pdb
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\bin\Debug\net8.0\Task.Domain.dll
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\bin\Debug\net8.0\Task.Domain.pdb
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\obj\Debug\net8.0\Task.Application.csproj.AssemblyReference.cache
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\obj\Debug\net8.0\Task.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\obj\Debug\net8.0\Task.Application.AssemblyInfoInputs.cache
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\obj\Debug\net8.0\Task.Application.AssemblyInfo.cs
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\obj\Debug\net8.0\Task.Application.csproj.CoreCompileInputs.cache
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\obj\Debug\net8.0\Task.App.9AA99ABD.Up2Date
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\obj\Debug\net8.0\Task.Application.dll
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\obj\Debug\net8.0\refint\Task.Application.dll
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\obj\Debug\net8.0\Task.Application.pdb
+C:\Users\13343\source\repos\EmployeeManagement\Task.Application\obj\Debug\net8.0\ref\Task.Application.dll

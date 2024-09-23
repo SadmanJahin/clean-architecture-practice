@@ -1,0 +1,15 @@
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\bin\Debug\net8.0\Task.Infrastructure.deps.json
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\bin\Debug\net8.0\Task.Infrastructure.dll
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\bin\Debug\net8.0\Task.Infrastructure.pdb
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\bin\Debug\net8.0\Task.Domain.dll
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\bin\Debug\net8.0\Task.Domain.pdb
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.AssemblyInfo.cs
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\obj\Debug\net8.0\Task.Inf.E552DDDA.Up2Date
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.dll
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\obj\Debug\net8.0\refint\Task.Infrastructure.dll
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.pdb
+C:\Users\13343\source\repos\EmployeeManagement\Task.Infrastructure\obj\Debug\net8.0\ref\Task.Infrastructure.dll
